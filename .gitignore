@@ -8,3 +8,6 @@ heroku
 dist
 .idea
 app/scripts/config.js
+
+data
+data/
